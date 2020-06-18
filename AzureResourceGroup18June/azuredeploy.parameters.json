@@ -9,13 +9,16 @@
       "value": "westus"
     },
     "databaseName": {
-      "value": "vatan-database"
+      "value": "hidbvatan"
     },
     "collection1Name": {
-      "value": "collection1new"
+      "value": "hearingInstruments"
     },
     "collection2Name": {
-      "value": "collection3new"
+      "value": "querySets"
+    },
+    "collection3Name": {
+      "value": "savedQuery"
     }
   }
 }
