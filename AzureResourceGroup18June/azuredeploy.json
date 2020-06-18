@@ -90,14 +90,15 @@
       "type": "string",
       "metadata": {
         "description": "The name for the second Mongo DB collection"
-      },
-      "collection3Name": {
-        "type": "string",
-        "metadata": {
-          "description": "The name for the third Mongo DB collection"
-        }
       }
     },
+    "collection3Name": {
+      "type": "string",
+      "metadata": {
+        "description": "The name for the third Mongo DB collection"
+      }
+    }
+  },
   "variables": {
     "accountName": "[toLower(parameters('accountName'))]",
     "consistencyPolicy": {
