@@ -1,0 +1,2 @@
+﻿Source:
+  https://docs.microsoft.com/en-us/azure/cosmos-db/manage-mongodb-with-resource-manager#azure-cosmos-account-for-mongodb-with-standard-provisioned-throughput
